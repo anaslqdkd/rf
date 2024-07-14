@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ash/qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ash/qt/build/MyQtApp_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++11 -fPIC -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -c /home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp",
+  "file": "/home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/ash/qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ash/qt/build/MyQtApp_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++11 -fPIC -o CMakeFiles/MyQtApp.dir/main.cpp.o -c /home/ash/qt/main.cpp",
+  "file": "/home/ash/qt/main.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ash/qt/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/ash/qt/build/MyQtApp_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++11 -fPIC -o CMakeFiles/MyQtApp.dir/mainwindow.cpp.o -c /home/ash/qt/mainwindow.cpp",
+  "file": "/home/ash/qt/mainwindow.cpp",
+  "output": "CMakeFiles/MyQtApp.dir/mainwindow.cpp.o"
+}
+]
