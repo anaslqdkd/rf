@@ -236,4 +236,9 @@ CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/rf/main.cpp \
  /usr/include/qt/QtWidgets/qframe.h /usr/include/qt/QtGui/qevent.h \
  /usr/include/qt/QtCore/qset.h /usr/include/qt/QtCore/qurl.h \
  /usr/include/qt/QtCore/qfile.h /usr/include/qt/QtCore/qfiledevice.h \
- /usr/include/qt/QtGui/qvector2d.h /usr/include/qt/QtGui/qtouchdevice.h
+ /usr/include/qt/QtGui/qvector2d.h /usr/include/qt/QtGui/qtouchdevice.h \
+ /usr/include/qt/QtWidgets/QMenu /usr/include/qt/QtWidgets/qmenu.h \
+ /usr/include/qt/QtWidgets/qaction.h \
+ /usr/include/qt/QtWidgets/qactiongroup.h \
+ /usr/include/qt/QtWidgets/qpushbutton.h \
+ /usr/include/qt/QtWidgets/qabstractbutton.h

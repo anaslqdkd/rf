@@ -232,5 +232,27 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
  /usr/include/qt/QtCore/qmap.h /usr/include/qt/QtCore/qset.h \
  /usr/include/qt/QtCore/qurl.h /usr/include/qt/QtCore/qfile.h \
  /usr/include/qt/QtCore/qfiledevice.h /usr/include/qt/QtGui/qvector2d.h \
- /usr/include/qt/QtGui/qtouchdevice.h /usr/include/qt/QtCore/qglobal.h \
- /usr/include/qt/QtWidgets/qlabel.h
+ /usr/include/qt/QtGui/qtouchdevice.h /usr/include/qt/QtWidgets/QMenu \
+ /usr/include/qt/QtWidgets/qmenu.h /usr/include/qt/QtWidgets/qaction.h \
+ /usr/include/qt/QtWidgets/qactiongroup.h \
+ /usr/include/qt/QtWidgets/qpushbutton.h \
+ /usr/include/qt/QtWidgets/qabstractbutton.h \
+ /usr/include/c++/14.1.1/fstream /usr/include/c++/14.1.1/istream \
+ /usr/include/c++/14.1.1/ios /usr/include/c++/14.1.1/bits/basic_ios.h \
+ /usr/include/c++/14.1.1/bits/locale_facets.h \
+ /usr/include/c++/14.1.1/cwctype /usr/include/wctype.h \
+ /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+ /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+ /usr/include/c++/14.1.1/bits/locale_facets.tcc \
+ /usr/include/c++/14.1.1/bits/basic_ios.tcc \
+ /usr/include/c++/14.1.1/ostream /usr/include/c++/14.1.1/bits/ostream.tcc \
+ /usr/include/c++/14.1.1/bits/istream.tcc \
+ /usr/include/c++/14.1.1/bits/codecvt.h \
+ /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+ /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
+ /usr/include/c++/14.1.1/bits/fstream.tcc \
+ /usr/include/qt/QtWidgets/qaction.h /usr/include/qt/QtCore/qglobal.h \
+ /usr/include/qt/QtWidgets/qlabel.h /usr/include/qt/QtWidgets/QPushButton \
+ /usr/include/qt/QtWidgets/qpushbutton.h \
+ /usr/include/qt/QtWidgets/qmenu.h /usr/include/c++/14.1.1/iostream

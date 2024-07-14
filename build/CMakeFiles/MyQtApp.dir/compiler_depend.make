@@ -339,9 +339,15 @@ MyQtApp_autogen/timestamp: /home/ash/rf/CMakeLists.txt \
   /usr/include/qt/QtGui/qwindowdefs.h \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QMenu \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qaction.h \
+  /usr/include/qt/QtWidgets/qactiongroup.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qmenu.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
@@ -734,9 +740,15 @@ CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: MyQtApp_autogen/m
   /usr/include/qt/QtGui/qwindowdefs.h \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QMenu \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qaction.h \
+  /usr/include/qt/QtWidgets/qactiongroup.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qmenu.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
@@ -1072,10 +1084,16 @@ CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/rf/main.cpp \
   /usr/include/qt/QtWidgets/QApplication \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QMenu \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qaction.h \
+  /usr/include/qt/QtWidgets/qactiongroup.h \
   /usr/include/qt/QtWidgets/qapplication.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qmenu.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
@@ -1170,6 +1188,7 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
   /usr/include/c++/14.1.1/algorithm \
@@ -1184,11 +1203,14 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/bits/allocator.h \
   /usr/include/c++/14.1.1/bits/atomic_base.h \
   /usr/include/c++/14.1.1/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.tcc \
   /usr/include/c++/14.1.1/bits/basic_string.h \
   /usr/include/c++/14.1.1/bits/basic_string.tcc \
   /usr/include/c++/14.1.1/bits/char_traits.h \
   /usr/include/c++/14.1.1/bits/charconv.h \
   /usr/include/c++/14.1.1/bits/chrono.h \
+  /usr/include/c++/14.1.1/bits/codecvt.h \
   /usr/include/c++/14.1.1/bits/concept_check.h \
   /usr/include/c++/14.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/14.1.1/bits/cxxabi_forced.h \
@@ -1197,19 +1219,24 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/bits/exception.h \
   /usr/include/c++/14.1.1/bits/exception_defines.h \
   /usr/include/c++/14.1.1/bits/exception_ptr.h \
+  /usr/include/c++/14.1.1/bits/fstream.tcc \
   /usr/include/c++/14.1.1/bits/functexcept.h \
   /usr/include/c++/14.1.1/bits/functional_hash.h \
   /usr/include/c++/14.1.1/bits/hash_bytes.h \
   /usr/include/c++/14.1.1/bits/invoke.h \
   /usr/include/c++/14.1.1/bits/ios_base.h \
+  /usr/include/c++/14.1.1/bits/istream.tcc \
   /usr/include/c++/14.1.1/bits/list.tcc \
   /usr/include/c++/14.1.1/bits/locale_classes.h \
   /usr/include/c++/14.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/14.1.1/bits/locale_facets.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.tcc \
   /usr/include/c++/14.1.1/bits/localefwd.h \
   /usr/include/c++/14.1.1/bits/memoryfwd.h \
   /usr/include/c++/14.1.1/bits/move.h \
   /usr/include/c++/14.1.1/bits/nested_exception.h \
   /usr/include/c++/14.1.1/bits/new_allocator.h \
+  /usr/include/c++/14.1.1/bits/ostream.tcc \
   /usr/include/c++/14.1.1/bits/ostream_insert.h \
   /usr/include/c++/14.1.1/bits/parse_numbers.h \
   /usr/include/c++/14.1.1/bits/postypes.h \
@@ -1263,6 +1290,7 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/cstdlib \
   /usr/include/c++/14.1.1/ctime \
   /usr/include/c++/14.1.1/cwchar \
+  /usr/include/c++/14.1.1/cwctype \
   /usr/include/c++/14.1.1/debug/assertions.h \
   /usr/include/c++/14.1.1/debug/debug.h \
   /usr/include/c++/14.1.1/exception \
@@ -1273,9 +1301,13 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/ext/numeric_traits.h \
   /usr/include/c++/14.1.1/ext/string_conversions.h \
   /usr/include/c++/14.1.1/ext/type_traits.h \
+  /usr/include/c++/14.1.1/fstream \
   /usr/include/c++/14.1.1/functional \
   /usr/include/c++/14.1.1/initializer_list \
+  /usr/include/c++/14.1.1/ios \
   /usr/include/c++/14.1.1/iosfwd \
+  /usr/include/c++/14.1.1/iostream \
+  /usr/include/c++/14.1.1/istream \
   /usr/include/c++/14.1.1/iterator \
   /usr/include/c++/14.1.1/limits \
   /usr/include/c++/14.1.1/list \
@@ -1283,6 +1315,7 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/memory \
   /usr/include/c++/14.1.1/new \
   /usr/include/c++/14.1.1/numeric \
+  /usr/include/c++/14.1.1/ostream \
   /usr/include/c++/14.1.1/ratio \
   /usr/include/c++/14.1.1/stdexcept \
   /usr/include/c++/14.1.1/stdlib.h \
@@ -1295,10 +1328,14 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/c++/14.1.1/utility \
   /usr/include/c++/14.1.1/vector \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
@@ -1405,9 +1442,16 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/qt/QtGui/qwindowdefs.h \
   /usr/include/qt/QtWidgets/QLabel \
   /usr/include/qt/QtWidgets/QMainWindow \
+  /usr/include/qt/QtWidgets/QMenu \
+  /usr/include/qt/QtWidgets/QPushButton \
+  /usr/include/qt/QtWidgets/qabstractbutton.h \
+  /usr/include/qt/QtWidgets/qaction.h \
+  /usr/include/qt/QtWidgets/qactiongroup.h \
   /usr/include/qt/QtWidgets/qframe.h \
   /usr/include/qt/QtWidgets/qlabel.h \
   /usr/include/qt/QtWidgets/qmainwindow.h \
+  /usr/include/qt/QtWidgets/qmenu.h \
+  /usr/include/qt/QtWidgets/qpushbutton.h \
   /usr/include/qt/QtWidgets/qsizepolicy.h \
   /usr/include/qt/QtWidgets/qtabwidget.h \
   /usr/include/qt/QtWidgets/qtwidgets-config.h \
@@ -1426,12 +1470,27 @@ CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
   /usr/include/sys/types.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
+  /usr/include/wctype.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/limits.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/stdint.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.1.1/include/syslimits.h
 
+
+/usr/include/qt/QtWidgets/QPushButton:
+
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/basic_file.h:
+
+/usr/include/c++/14.1.1/istream:
+
+/usr/include/c++/14.1.1/iostream:
+
+/usr/include/c++/14.1.1/fstream:
+
+/usr/include/c++/14.1.1/bits/istream.tcc:
+
+/usr/include/c++/14.1.1/bits/fstream.tcc:
 
 /usr/include/qt/QtWidgets/qapplication.h:
 
@@ -1521,8 +1580,6 @@ MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake:
 
-/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake:
-
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake:
@@ -1569,7 +1626,15 @@ MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/qt/QtWidgets/qsizepolicy.h:
 
+/usr/include/qt/QtWidgets/qmenu.h:
+
 /usr/include/qt/QtWidgets/qmainwindow.h:
+
+/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake:
+
+/usr/include/qt/QtWidgets/qactiongroup.h:
+
+/usr/include/qt/QtWidgets/qabstractbutton.h:
 
 /usr/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake:
 
@@ -1697,11 +1762,15 @@ MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /usr/include/c++/14.1.1/bits/nested_exception.h:
 
+/usr/include/qt/QtWidgets/qpushbutton.h:
+
 /usr/include/c++/14.1.1/bits/move_only_function.h:
 
 /usr/include/c++/14.1.1/bits/list.tcc:
 
 /usr/include/c++/14.1.1/bits/parse_numbers.h:
+
+/usr/include/qt/QtWidgets/qaction.h:
 
 /usr/include/bits/typesizes.h:
 
@@ -1900,6 +1969,8 @@ CMakeFiles/3.29.6/CMakeCCompiler.cmake:
 /usr/include/qt/QtCore/qconfig.h:
 
 /usr/include/bits/syscall.h:
+
+/usr/include/qt/QtWidgets/QMenu:
 
 /usr/include/qt/QtCore/qlogging.h:
 
@@ -2103,6 +2174,8 @@ CMakeFiles/3.29.6/CMakeSystem.cmake:
 
 /usr/include/c++/14.1.1/bits/streambuf.tcc:
 
+/usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++io.h:
+
 /usr/include/c++/14.1.1/bits/shared_ptr.h:
 
 /usr/include/c++/14.1.1/string_view:
@@ -2128,6 +2201,8 @@ CMakeFiles/3.29.6/CMakeSystem.cmake:
 /usr/include/asm-generic/errno.h:
 
 /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
+
+/usr/include/c++/14.1.1/bits/codecvt.h:
 
 /usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake:
 
