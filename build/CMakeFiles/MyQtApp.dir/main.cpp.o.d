@@ -1,4 +1,4 @@
-CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/qt/main.cpp \
+CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/rf/main.cpp \
  /usr/include/stdc-predef.h /usr/include/qt/QtWidgets/QApplication \
  /usr/include/qt/QtWidgets/qapplication.h \
  /usr/include/qt/QtWidgets/qtwidgetsglobal.h \
@@ -214,7 +214,7 @@ CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/qt/main.cpp \
  /usr/include/qt/QtGui/qinputmethod.h /usr/include/qt/QtCore/qlocale.h \
  /usr/include/qt/QtCore/qvariant.h /usr/include/qt/QtCore/qmap.h \
  /usr/include/qt/QtCore/qhash.h /usr/include/qt/QtCore/qshareddata.h \
- /home/ash/qt/mainwindow.h /usr/include/qt/QtWidgets/QMainWindow \
+ /home/ash/rf/mainwindow.h /usr/include/qt/QtWidgets/QMainWindow \
  /usr/include/qt/QtWidgets/qmainwindow.h \
  /usr/include/qt/QtWidgets/qwidget.h /usr/include/qt/QtGui/qpaintdevice.h \
  /usr/include/qt/QtCore/qrect.h /usr/include/qt/QtGui/qpalette.h \

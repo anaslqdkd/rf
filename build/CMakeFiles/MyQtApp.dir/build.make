@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ash/qt
+CMAKE_SOURCE_DIR = /home/ash/rf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ash/qt/build
+CMAKE_BINARY_DIR = /home/ash/rf/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MyQtApp.dir/depend.make
@@ -72,51 +72,51 @@ include CMakeFiles/MyQtApp.dir/flags.make
 MyQtApp_autogen/timestamp: /usr/bin/moc
 MyQtApp_autogen/timestamp: /usr/bin/uic
 MyQtApp_autogen/timestamp: CMakeFiles/MyQtApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MyQtApp"
-	/usr/bin/cmake -E cmake_autogen /home/ash/qt/build/CMakeFiles/MyQtApp_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /home/ash/qt/build/MyQtApp_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MyQtApp"
+	/usr/bin/cmake -E cmake_autogen /home/ash/rf/build/CMakeFiles/MyQtApp_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /home/ash/rf/build/MyQtApp_autogen/timestamp
 
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: CMakeFiles/MyQtApp.dir/flags.make
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: MyQtApp_autogen/mocs_compilation.cpp
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: CMakeFiles/MyQtApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -MF CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -c /home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -MF CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o -c /home/ash/rf/build/MyQtApp_autogen/mocs_compilation.cpp
 
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp > CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/rf/build/MyQtApp_autogen/mocs_compilation.cpp > CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/rf/build/MyQtApp_autogen/mocs_compilation.cpp -o CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/MyQtApp.dir/main.cpp.o: CMakeFiles/MyQtApp.dir/flags.make
-CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/qt/main.cpp
+CMakeFiles/MyQtApp.dir/main.cpp.o: /home/ash/rf/main.cpp
 CMakeFiles/MyQtApp.dir/main.cpp.o: CMakeFiles/MyQtApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyQtApp.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/main.cpp.o -MF CMakeFiles/MyQtApp.dir/main.cpp.o.d -o CMakeFiles/MyQtApp.dir/main.cpp.o -c /home/ash/qt/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyQtApp.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/main.cpp.o -MF CMakeFiles/MyQtApp.dir/main.cpp.o.d -o CMakeFiles/MyQtApp.dir/main.cpp.o -c /home/ash/rf/main.cpp
 
 CMakeFiles/MyQtApp.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyQtApp.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/qt/main.cpp > CMakeFiles/MyQtApp.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/rf/main.cpp > CMakeFiles/MyQtApp.dir/main.cpp.i
 
 CMakeFiles/MyQtApp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyQtApp.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/qt/main.cpp -o CMakeFiles/MyQtApp.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/rf/main.cpp -o CMakeFiles/MyQtApp.dir/main.cpp.s
 
 CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: CMakeFiles/MyQtApp.dir/flags.make
-CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/qt/mainwindow.cpp
+CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp
 CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: CMakeFiles/MyQtApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyQtApp.dir/mainwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/mainwindow.cpp.o -MF CMakeFiles/MyQtApp.dir/mainwindow.cpp.o.d -o CMakeFiles/MyQtApp.dir/mainwindow.cpp.o -c /home/ash/qt/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyQtApp.dir/mainwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyQtApp.dir/mainwindow.cpp.o -MF CMakeFiles/MyQtApp.dir/mainwindow.cpp.o.d -o CMakeFiles/MyQtApp.dir/mainwindow.cpp.o -c /home/ash/rf/mainwindow.cpp
 
 CMakeFiles/MyQtApp.dir/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyQtApp.dir/mainwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/qt/mainwindow.cpp > CMakeFiles/MyQtApp.dir/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/rf/mainwindow.cpp > CMakeFiles/MyQtApp.dir/mainwindow.cpp.i
 
 CMakeFiles/MyQtApp.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyQtApp.dir/mainwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/qt/mainwindow.cpp -o CMakeFiles/MyQtApp.dir/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/rf/mainwindow.cpp -o CMakeFiles/MyQtApp.dir/mainwindow.cpp.s
 
 # Object files for target MyQtApp
 MyQtApp_OBJECTS = \
@@ -135,7 +135,7 @@ MyQtApp: /usr/lib/libQt5Widgets.so.5.15.14
 MyQtApp: /usr/lib/libQt5Gui.so.5.15.14
 MyQtApp: /usr/lib/libQt5Core.so.5.15.14
 MyQtApp: CMakeFiles/MyQtApp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable MyQtApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable MyQtApp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MyQtApp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -147,6 +147,6 @@ CMakeFiles/MyQtApp.dir/clean:
 .PHONY : CMakeFiles/MyQtApp.dir/clean
 
 CMakeFiles/MyQtApp.dir/depend: MyQtApp_autogen/timestamp
-	cd /home/ash/qt/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/qt /home/ash/qt /home/ash/qt/build /home/ash/qt/build /home/ash/qt/build/CMakeFiles/MyQtApp.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/ash/rf/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/rf /home/ash/rf /home/ash/rf/build /home/ash/rf/build /home/ash/rf/build/CMakeFiles/MyQtApp.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/MyQtApp.dir/depend
 

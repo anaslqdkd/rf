@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ash/qt
+CMAKE_SOURCE_DIR = /home/ash/rf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ash/qt/build
+CMAKE_BINARY_DIR = /home/ash/rf/build
 
 # Utility rule file for MyQtApp_autogen_timestamp_deps.
 
@@ -78,6 +78,6 @@ CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/depend:
-	cd /home/ash/qt/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/qt /home/ash/qt /home/ash/qt/build /home/ash/qt/build /home/ash/qt/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/ash/rf/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/rf /home/ash/rf /home/ash/rf/build /home/ash/rf/build /home/ash/rf/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/MyQtApp_autogen_timestamp_deps.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ash/qt
+# Install script for directory: /home/ash/rf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ash/qt/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ash/rf/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

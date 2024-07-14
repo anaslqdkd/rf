@@ -1,5 +1,5 @@
-/home/ash/qt/build/MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/ash/qt/mainwindow.h \
-  /home/ash/qt/build/MyQtApp_autogen/moc_predefs.h \
+/home/ash/rf/build/MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/ash/rf/mainwindow.h \
+  /home/ash/rf/build/MyQtApp_autogen/moc_predefs.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \

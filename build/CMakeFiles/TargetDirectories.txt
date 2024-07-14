@@ -1,5 +1,5 @@
-/home/ash/qt/build/CMakeFiles/MyQtApp.dir
-/home/ash/qt/build/CMakeFiles/edit_cache.dir
-/home/ash/qt/build/CMakeFiles/rebuild_cache.dir
-/home/ash/qt/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir
-/home/ash/qt/build/CMakeFiles/MyQtApp_autogen.dir
+/home/ash/rf/build/CMakeFiles/MyQtApp.dir
+/home/ash/rf/build/CMakeFiles/edit_cache.dir
+/home/ash/rf/build/CMakeFiles/rebuild_cache.dir
+/home/ash/rf/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir
+/home/ash/rf/build/CMakeFiles/MyQtApp_autogen.dir

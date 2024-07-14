@@ -1,5 +1,5 @@
-CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/qt/mainwindow.cpp \
- /usr/include/stdc-predef.h /home/ash/qt/mainwindow.h \
+CMakeFiles/MyQtApp.dir/mainwindow.cpp.o: /home/ash/rf/mainwindow.cpp \
+ /usr/include/stdc-predef.h /home/ash/rf/mainwindow.h \
  /usr/include/qt/QtWidgets/QMainWindow \
  /usr/include/qt/QtWidgets/qmainwindow.h \
  /usr/include/qt/QtWidgets/qtwidgetsglobal.h \

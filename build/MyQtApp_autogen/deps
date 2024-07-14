@@ -1,12 +1,12 @@
 MyQtApp_autogen/timestamp: \
-	/home/ash/qt/CMakeLists.txt \
-	/home/ash/qt/build/CMakeFiles/3.29.6/CMakeCCompiler.cmake \
-	/home/ash/qt/build/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake \
-	/home/ash/qt/build/CMakeFiles/3.29.6/CMakeSystem.cmake \
-	/home/ash/qt/build/MyQtApp_autogen/moc_predefs.h \
-	/home/ash/qt/main.cpp \
-	/home/ash/qt/mainwindow.cpp \
-	/home/ash/qt/mainwindow.h \
+	/home/ash/rf/CMakeLists.txt \
+	/home/ash/rf/build/CMakeFiles/3.29.6/CMakeCCompiler.cmake \
+	/home/ash/rf/build/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake \
+	/home/ash/rf/build/CMakeFiles/3.29.6/CMakeSystem.cmake \
+	/home/ash/rf/build/MyQtApp_autogen/moc_predefs.h \
+	/home/ash/rf/main.cpp \
+	/home/ash/rf/mainwindow.cpp \
+	/home/ash/rf/mainwindow.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
 	/usr/include/asm/errno.h \

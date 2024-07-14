@@ -1,7 +1,7 @@
 CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: \
- /home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp \
+ /home/ash/rf/build/MyQtApp_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/ash/qt/build/MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+ /home/ash/rf/build/MyQtApp_autogen/EWIEGA46WW/moc_mainwindow.cpp \
  /usr/include/c++/14.1.1/memory /usr/include/c++/14.1.1/bits/memoryfwd.h \
  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -100,7 +100,7 @@ CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/14.1.1/bits/atomic_base.h \
  /usr/include/c++/14.1.1/bits/atomic_lockfree_defines.h \
  /usr/include/c++/14.1.1/backward/auto_ptr.h \
- /home/ash/qt/build/MyQtApp_autogen/EWIEGA46WW/../../../mainwindow.h \
+ /home/ash/rf/build/MyQtApp_autogen/EWIEGA46WW/../../../mainwindow.h \
  /usr/include/qt/QtWidgets/QMainWindow \
  /usr/include/qt/QtWidgets/qmainwindow.h \
  /usr/include/qt/QtWidgets/qtwidgetsglobal.h \

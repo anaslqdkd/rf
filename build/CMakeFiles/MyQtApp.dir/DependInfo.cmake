@@ -9,9 +9,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "MyQtApp_autogen/timestamp" "custom" "MyQtApp_autogen/deps"
-  "/home/ash/qt/build/MyQtApp_autogen/mocs_compilation.cpp" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d"
-  "/home/ash/qt/main.cpp" "CMakeFiles/MyQtApp.dir/main.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/main.cpp.o.d"
-  "/home/ash/qt/mainwindow.cpp" "CMakeFiles/MyQtApp.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/mainwindow.cpp.o.d"
+  "/home/ash/rf/build/MyQtApp_autogen/mocs_compilation.cpp" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o.d"
+  "/home/ash/rf/main.cpp" "CMakeFiles/MyQtApp.dir/main.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/main.cpp.o.d"
+  "/home/ash/rf/mainwindow.cpp" "CMakeFiles/MyQtApp.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/MyQtApp.dir/mainwindow.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

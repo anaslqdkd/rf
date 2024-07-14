@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ash/qt
+CMAKE_SOURCE_DIR = /home/ash/rf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ash/qt/build
+CMAKE_BINARY_DIR = /home/ash/rf/build
 
 # Utility rule file for MyQtApp_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/MyQtApp_autogen: MyQtApp_autogen/timestamp
 MyQtApp_autogen/timestamp: /usr/bin/moc
 MyQtApp_autogen/timestamp: /usr/bin/uic
 MyQtApp_autogen/timestamp: CMakeFiles/MyQtApp_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ash/qt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MyQtApp"
-	/usr/bin/cmake -E cmake_autogen /home/ash/qt/build/CMakeFiles/MyQtApp_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /home/ash/qt/build/MyQtApp_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ash/rf/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MyQtApp"
+	/usr/bin/cmake -E cmake_autogen /home/ash/rf/build/CMakeFiles/MyQtApp_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /home/ash/rf/build/MyQtApp_autogen/timestamp
 
 MyQtApp_autogen: CMakeFiles/MyQtApp_autogen
 MyQtApp_autogen: MyQtApp_autogen/timestamp
@@ -89,6 +89,6 @@ CMakeFiles/MyQtApp_autogen.dir/clean:
 .PHONY : CMakeFiles/MyQtApp_autogen.dir/clean
 
 CMakeFiles/MyQtApp_autogen.dir/depend:
-	cd /home/ash/qt/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/qt /home/ash/qt /home/ash/qt/build /home/ash/qt/build /home/ash/qt/build/CMakeFiles/MyQtApp_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/ash/rf/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ash/rf /home/ash/rf /home/ash/rf/build /home/ash/rf/build /home/ash/rf/build/CMakeFiles/MyQtApp_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/MyQtApp_autogen.dir/depend
 
